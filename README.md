@@ -87,11 +87,11 @@ Adding Chat ID
 
 Example:
 
-const char* ssid = "YOUR_WIFI_NAME";
-const char* password = "YOUR_WIFI_PASSWORD";
+const char* ssid = "SpectrumSetup-****";
+const char* password = "***************";
 
-String BOTtoken = "YOUR_BOT_TOKEN";
-String CHAT_ID = "YOUR_CHAT_ID";
+String BOTtoken = "7697246797:AAFoIZigBSovICWMZIIUtzwD4-7aKPHgUTE";
+String CHAT_ID = "93372553";
 8. Uploaded the Code
 Verified the sketch
 Uploaded it to the ESP32-CAM
